@@ -24,3 +24,5 @@
 #Which categories Overall had the most dislikes/likes? 
 #Which categories in Russia had the most likes/dislikes?
 #Which categories in Great Britain had the most dislikes?
+
+#What was the correlation between views and likes/dislikes?
